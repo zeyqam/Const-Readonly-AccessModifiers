@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\bin\Debug\net6.0\AccessModifiers-Encopsulation.exe
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\bin\Debug\net6.0\AccessModifiers-Encopsulation.deps.json
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\bin\Debug\net6.0\AccessModifiers-Encopsulation.runtimeconfig.json
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\bin\Debug\net6.0\AccessModifiers-Encopsulation.dll
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\bin\Debug\net6.0\AccessModifiers-Encopsulation.pdb
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.AssemblyInfo.cs
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.dll
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\refint\AccessModifiers-Encopsulation.dll
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.pdb
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\AccessModifiers-Encopsulation.genruntimeconfig.cache
+C:\Users\HP\Desktop\AccessModifiers-Encopsulation\AccessModifiers-Encopsulation\obj\Debug\net6.0\ref\AccessModifiers-Encopsulation.dll

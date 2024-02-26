@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers-Encopsulation", "AccessModifiers-Encopsulation\AccessModifiers-Encopsulation.csproj", "{280C20C7-D7B6-4EB7-92CC-21BCE156235E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280C20C7-D7B6-4EB7-92CC-21BCE156235E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280C20C7-D7B6-4EB7-92CC-21BCE156235E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280C20C7-D7B6-4EB7-92CC-21BCE156235E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280C20C7-D7B6-4EB7-92CC-21BCE156235E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8BF7530-BD24-44B1-92DF-886EC9A5E794}
+	EndGlobalSection
+EndGlobal
